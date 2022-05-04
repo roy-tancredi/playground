@@ -1,0 +1,163 @@
+Fri Apr 29 14:44:28 2022: [15796] accounting    : id 47, AAA843430(AEGON_USER)[AEGON_USER_DC] received from 10.195.140.13
+Fri Apr 29 14:44:41 2022: [15796] accounting    : id 41, aaa801378(AEGON_USER)[AEGON_USER_DC] received from 10.195.141.13
+Fri Apr 29 14:44:43 2022: [15796] accounting    : id 42, AAA749313(AEGON_USER)[AEGON_USER_DC] received from 10.195.141.13
+Fri Apr 29 14:44:49 2022: [20335] failed author : id 86, healthcheck_netscaler_zmc from 10.216.48.203 not found in zmc, zmcras
+Fri Apr 29 14:44:49 2022: [20335] sending reject: id 86, healthcheck_netscaler_zmc (zmc) to 10.216.48.203
+Fri Apr 29 14:45:01 2022: [20417] passed author : id 221, acetest in monitor, monitor (ace: MO_acetest)
+Fri Apr 29 14:45:01 2022: [20417] passed authen : id 221, acetest in monitor, monitor (securid)
+Fri Apr 29 14:45:01 2022: [20417] sending accept: id 221, acetest (monitor) to 161.89.53.149
+Fri Apr 29 14:45:05 2022: [20486] failed author : id 16, mon_vpx_vgz from 10.217.14.119 not found in vgz, vgzras
+Fri Apr 29 14:45:05 2022: [20486] sending reject: id 16, mon_vpx_vgz (vgz) to 10.217.14.119
+Fri Apr 29 14:45:49 2022: [20877] failed author : id 87, healthcheck_netscaler_zmc from 10.216.48.203 not found in zmc, zmcras
+Fri Apr 29 14:45:49 2022: [20877] sending reject: id 87, healthcheck_netscaler_zmc (zmc) to 10.216.48.203
+Fri Apr 29 14:46:02 2022: [20970] passed author : id 25, acetest0 in monitor, monitor (ace: MO_acetest0)
+Fri Apr 29 14:46:02 2022: [20970] passed authen : id 25, acetest0 in monitor, monitor (securid)
+Fri Apr 29 14:46:02 2022: [20970] sending accept: id 25, acetest0 (monitor) to 161.89.53.149
+Fri Apr 29 14:46:02 2022: [20984] passed author : id 150, acetest1 in monitor, monitor (ace: MO_acetest1)
+Fri Apr 29 14:46:02 2022: [20984] passed authen : id 150, acetest1 in monitor, monitor (securid)
+Fri Apr 29 14:46:02 2022: [20984] sending accept: id 150, acetest1 (monitor) to 161.89.53.149
+Fri Apr 29 14:46:02 2022: [20997] passed author : id 8, acetest2 in monitor, monitor (ace: MO_acetest2)
+Fri Apr 29 14:46:02 2022: [20997] passed authen : id 8, acetest2 in monitor, monitor (securid)
+Fri Apr 29 14:46:02 2022: [20997] sending accept: id 8, acetest2 (monitor) to 161.89.53.149
+Fri Apr 29 14:46:02 2022: [21010] passed author : id 224, acetest3 in monitor, monitor (ace: MO_acetest3)
+Fri Apr 29 14:46:02 2022: [21010] passed authen : id 224, acetest3 in monitor, monitor (securid)
+Fri Apr 29 14:46:02 2022: [21010] sending accept: id 224, acetest3 (monitor) to 161.89.53.149
+Fri Apr 29 14:46:02 2022: [21023] passed author : id 30, acetest4 in monitor, monitor (ace: MO_acetest4)
+Fri Apr 29 14:46:02 2022: [21023] passed authen : id 30, acetest4 in monitor, monitor (securid)
+Fri Apr 29 14:46:02 2022: [21023] sending accept: id 30, acetest4 (monitor) to 161.89.53.149
+Fri Apr 29 14:46:03 2022: [21036] passed author : id 180, acetest5 in monitor, monitor (ace: MO_acetest5)
+Fri Apr 29 14:46:03 2022: [21036] passed authen : id 180, acetest5 in monitor, monitor (securid)
+Fri Apr 29 14:46:03 2022: [21036] sending accept: id 180, acetest5 (monitor) to 161.89.53.149
+Fri Apr 29 14:46:03 2022: [21048] passed author : id 172, acetest6 in monitor, monitor (ace: MO_acetest6)
+Fri Apr 29 14:46:03 2022: [21048] passed authen : id 172, acetest6 in monitor, monitor (securid)
+Fri Apr 29 14:46:03 2022: [21048] sending accept: id 172, acetest6 (monitor) to 161.89.53.149
+Fri Apr 29 14:46:03 2022: [21061] passed author : id 69, acetest7 in monitor, monitor (ace: MO_acetest7)
+Fri Apr 29 14:46:03 2022: [21061] passed authen : id 69, acetest7 in monitor, monitor (securid)
+Fri Apr 29 14:46:03 2022: [21061] sending accept: id 69, acetest7 (monitor) to 161.89.53.149
+Fri Apr 29 14:46:03 2022: [21073] passed author : id 39, acetest8 in monitor, monitor (ace: MO_acetest8)
+Fri Apr 29 14:46:03 2022: [21073] passed authen : id 39, acetest8 in monitor, monitor (securid)
+Fri Apr 29 14:46:03 2022: [21073] sending accept: id 39, acetest8 (monitor) to 161.89.53.149
+Fri Apr 29 14:46:03 2022: [21086] passed author : id 53, acetest9 in monitor, monitor (ace: MO_acetest9)
+Fri Apr 29 14:46:03 2022: [21086] passed authen : id 53, acetest9 in monitor, monitor (securid)
+Fri Apr 29 14:46:03 2022: [21086] sending accept: id 53, acetest9 (monitor) to 161.89.53.149
+Fri Apr 29 14:46:05 2022: [21155] failed author : id 17, mon_vpx_vgz from 10.217.14.119 not found in vgz, vgzras
+Fri Apr 29 14:46:05 2022: [21155] sending reject: id 17, mon_vpx_vgz (vgz) to 10.217.14.119
+Fri Apr 29 14:46:49 2022: [21761] failed author : id 88, healthcheck_netscaler_zmc from 10.216.48.203 not found in zmc, zmcras
+Fri Apr 29 14:46:49 2022: [21761] sending reject: id 88, healthcheck_netscaler_zmc (zmc) to 10.216.48.203
+Fri Apr 29 14:46:51 2022: [15796] accounting    : id 43, AAA749313(AEGON_USER)[AEGON_USER_DC] received from 10.195.141.13
+Fri Apr 29 14:47:05 2022: [21946] failed author : id 18, mon_vpx_vgz from 10.217.14.119 not found in vgz, vgzras
+Fri Apr 29 14:47:05 2022: [21946] sending reject: id 18, mon_vpx_vgz (vgz) to 10.217.14.119
+Fri Apr 29 14:47:40 2022: [15796] accounting    : id 48, AAA749254(AEGON_USER)[AEGON_USER_DC] received from 10.195.140.13
+Fri Apr 29 14:47:40 2022: [15796] accounting    : id 49, AAA749254(AEGON_USER)[AEGON_USER_DC] received from 10.195.140.13
+Fri Apr 29 14:47:42 2022: [22152] passed author : id 10, aaa749155 in ah, ahras (ace: AH_aaa749155)
+Fri Apr 29 14:47:42 2022: [22152] passed authen : id 10, aaa749155 in ah, ahras (securid)
+Fri Apr 29 14:47:42 2022: [22152] sending accept: id 10, aaa749155 (ah) to 10.195.141.13
+Fri Apr 29 14:47:49 2022: [22238] failed author : id 89, healthcheck_netscaler_zmc from 10.216.48.203 not found in zmc, zmcras
+Fri Apr 29 14:47:49 2022: [22238] sending reject: id 89, healthcheck_netscaler_zmc (zmc) to 10.216.48.203
+Fri Apr 29 14:47:55 2022: [15796] accounting    : id 44, aaa749155(AEGON_USER)[AEGON_USER_DC] received from 10.195.141.13
+Fri Apr 29 14:47:55 2022: [15796] accounting    : id 45, aaa749155(AEGON_USER)[AEGON_USER_DC] received from 10.195.141.13
+Fri Apr 29 14:47:56 2022: [15796] accounting    : id 46, aaa749731(AEGON_USER)[AEGON_USER_DC] received from 10.195.141.13
+Fri Apr 29 14:47:56 2022: [15796] accounting    : id 47, aaa749731(AEGON_USER)[AEGON_USER_DC] received from 10.195.141.13
+Fri Apr 29 14:48:02 2022: [15796] accounting    : id 50, aaa766140(AEGON_USER)[AEGON_USER_DC] received from 10.195.140.13
+Fri Apr 29 14:48:03 2022: [15796] accounting    : id 51, aaa749772(AEGON_USER)[AEGON_USER_DC] received from 10.195.140.13
+Fri Apr 29 14:48:05 2022: [22370] failed author : id 19, mon_vpx_vgz from 10.217.14.119 not found in vgz, vgzras
+Fri Apr 29 14:48:05 2022: [22370] sending reject: id 19, mon_vpx_vgz (vgz) to 10.217.14.119
+Fri Apr 29 14:48:27 2022: [22797] passed author : id 213, natasha.alphonse in beh, behras (ace: BE_natasha.alphonse)
+Fri Apr 29 14:48:27 2022: [22797] passed authen : id 213, natasha.alphonse in beh, behras (securid)
+Fri Apr 29 14:48:27 2022: [22797] sending accept: id 213, natasha.alphonse (beh) to 10.195.93.243
+Fri Apr 29 14:48:28 2022: [15796] accounting    : id 52, aaa749772(AEGON_USER)[AEGON_USER_DC] received from 10.195.140.13
+Fri Apr 29 14:48:49 2022: [22896] failed author : id 90, healthcheck_netscaler_zmc from 10.216.48.203 not found in zmc, zmcras
+Fri Apr 29 14:48:49 2022: [22896] sending reject: id 90, healthcheck_netscaler_zmc (zmc) to 10.216.48.203
+Fri Apr 29 14:49:05 2022: [23035] failed author : id 20, mon_vpx_vgz from 10.217.14.119 not found in vgz, vgzras
+Fri Apr 29 14:49:05 2022: [23035] sending reject: id 20, mon_vpx_vgz (vgz) to 10.217.14.119
+Fri Apr 29 14:49:28 2022: [23206] passed author : id 176, aaa749925 in ah, ahras (ace: AH_aaa749925)
+Fri Apr 29 14:49:28 2022: [23206] passed authen : id 176, aaa749925 in ah, ahras (securid)
+Fri Apr 29 14:49:28 2022: [23206] sending accept: id 176, aaa749925 (ah) to 10.195.140.13
+Fri Apr 29 14:49:31 2022: [15796] accounting    : id 53, aaa749469(AEGON_USER)[AEGON_USER_DC] received from 10.195.140.13
+Fri Apr 29 14:49:33 2022: [15796] accounting    : id 54, aaa749925(AEGON_USER)[AEGON_USER_DC] received from 10.195.140.13
+Fri Apr 29 14:49:33 2022: [15796] accounting    : id 55, aaa749925(AEGON_USER)[AEGON_USER_DC] received from 10.195.140.13
+Fri Apr 29 14:49:35 2022: [15796] accounting    : id 48, xsr62c@aegon-service.co.uk(PROTECTION-USER)[AEGON_PROTECTION_USER_DC] received from 10.195.141.13
+Fri Apr 29 14:49:49 2022: [23370] failed author : id 91, healthcheck_netscaler_zmc from 10.216.48.203 not found in zmc, zmcras
+Fri Apr 29 14:49:49 2022: [23370] sending reject: id 91, healthcheck_netscaler_zmc (zmc) to 10.216.48.203
+Fri Apr 29 14:50:00 2022: [15796] accounting    : id 49, AAA749313(AEGON_USER)[AEGON_USER_DC] received from 10.195.141.13
+Fri Apr 29 14:50:02 2022: [23506] passed author : id 118, acetest in monitor, monitor (ace: MO_acetest)
+Fri Apr 29 14:50:02 2022: [23506] passed authen : id 118, acetest in monitor, monitor (securid)
+Fri Apr 29 14:50:02 2022: [23506] sending accept: id 118, acetest (monitor) to 161.89.53.149
+Fri Apr 29 14:50:05 2022: [23595] failed author : id 21, mon_vpx_vgz from 10.217.14.119 not found in vgz, vgzras
+Fri Apr 29 14:50:05 2022: [23595] sending reject: id 21, mon_vpx_vgz (vgz) to 10.217.14.119
+Fri Apr 29 14:50:28 2022: [15796] accounting    : id 56, aaa749446(AEGON_USER)[AEGON_USER_DC] received from 10.195.140.13
+Fri Apr 29 14:50:49 2022: [24131] failed author : id 92, healthcheck_netscaler_zmc from 10.216.48.203 not found in zmc, zmcras
+Fri Apr 29 14:50:49 2022: [24131] sending reject: id 92, healthcheck_netscaler_zmc (zmc) to 10.216.48.203
+Fri Apr 29 14:51:06 2022: [24207] failed author : id 22, mon_vpx_vgz from 10.217.14.119 not found in vgz, vgzras
+Fri Apr 29 14:51:06 2022: [24207] sending reject: id 22, mon_vpx_vgz (vgz) to 10.217.14.119
+Fri Apr 29 14:51:49 2022: [24288] failed author : id 93, healthcheck_netscaler_zmc from 10.216.48.203 not found in zmc, zmcras
+Fri Apr 29 14:51:49 2022: [24288] sending reject: id 93, healthcheck_netscaler_zmc (zmc) to 10.216.48.203
+Fri Apr 29 14:52:06 2022: [24783] failed author : id 23, mon_vpx_vgz from 10.217.14.119 not found in vgz, vgzras
+Fri Apr 29 14:52:06 2022: [24783] sending reject: id 23, mon_vpx_vgz (vgz) to 10.217.14.119
+Fri Apr 29 14:52:40 2022: [15796] accounting    : id 216, aaa749469(AEGON_USER)[AEGON_USER_DC] received from 10.195.140.22
+Fri Apr 29 14:52:40 2022: [15796] accounting    : id 217, aaa749730(AEGON_USER)[AEGON_USER_DC] received from 10.195.140.22
+Fri Apr 29 14:52:40 2022: [15796] accounting    : id 218, aaa749730(AEGON_USER)[AEGON_USER_DC] received from 10.195.140.22
+Fri Apr 29 14:52:40 2022: [15796] accounting    : id 219, aaa750681(AEGON_USER)[AEGON_USER_DC] received from 10.195.140.22
+Fri Apr 29 14:52:40 2022: [15796] accounting    : id 220, aaa750681(AEGON_USER)[AEGON_USER_DC] received from 10.195.140.22
+Fri Apr 29 14:52:49 2022: [24859] failed author : id 94, healthcheck_netscaler_zmc from 10.216.48.203 not found in zmc, zmcras
+Fri Apr 29 14:52:49 2022: [24859] sending reject: id 94, healthcheck_netscaler_zmc (zmc) to 10.216.48.203
+Fri Apr 29 14:52:57 2022: [15796] accounting    : id 57, aaa784163(AEGON_USER)[AEGON_USER_DC] received from 10.195.140.13
+Fri Apr 29 14:53:03 2022: [15796] accounting    : id 50, aaa801378(AEGON_USER)[AEGON_USER_DC] received from 10.195.141.13
+Fri Apr 29 14:53:06 2022: [24945] failed author : id 24, mon_vpx_vgz from 10.217.14.119 not found in vgz, vgzras
+Fri Apr 29 14:53:06 2022: [24945] sending reject: id 24, mon_vpx_vgz (vgz) to 10.217.14.119
+Fri Apr 29 14:53:16 2022: [25254] passed author : id 18, aaa749730 in ah, ahras (ace: AH_aaa749730)
+Fri Apr 29 14:53:16 2022: [25254] passed authen : id 18, aaa749730 in ah, ahras (securid)
+Fri Apr 29 14:53:16 2022: [25254] sending accept: id 18, aaa749730 (ah) to 10.195.140.13
+Fri Apr 29 14:53:24 2022: [15796] accounting    : id 58, aaa749730(AEGON_USER)[AEGON_USER_DC] received from 10.195.140.13
+Fri Apr 29 14:53:24 2022: [15796] accounting    : id 59, aaa749730(AEGON_USER)[AEGON_USER_DC] received from 10.195.140.13
+Fri Apr 29 14:53:49 2022: [25276] failed author : id 95, healthcheck_netscaler_zmc from 10.216.48.203 not found in zmc, zmcras
+Fri Apr 29 14:53:49 2022: [25276] sending reject: id 95, healthcheck_netscaler_zmc (zmc) to 10.216.48.203
+Fri Apr 29 14:54:06 2022: [25518] failed author : id 25, mon_vpx_vgz from 10.217.14.119 not found in vgz, vgzras
+Fri Apr 29 14:54:06 2022: [25518] sending reject: id 25, mon_vpx_vgz (vgz) to 10.217.14.119
+Fri Apr 29 14:54:25 2022: [15796] accounting    : id 60, aaa784163(AEGON_USER)[AEGON_USER_DC] received from 10.195.140.13
+Fri Apr 29 14:54:34 2022: [25662] passed author : id 234, schaafn in unive, univeras (ace: UN_schaafn)
+Fri Apr 29 14:54:34 2022: [25662] otpDB         : id 234, schaafn in unive: SMS sent, account AtosNN (No error)
+Fri Apr 29 14:54:34 2022: [25662] sending chlng : id 234, schaafn (unive) to 10.70.201.90:52928 (otp auth)
+Fri Apr 29 14:54:34 2022: [25662] debug child_authenticate: msg_id = 2039119872, msg_key = 7200643e
+Fri Apr 29 14:54:37 2022: [15796] accounting    : id 61, aaa769352(AEGON_USER)[AEGON_USER_DC] received from 10.195.140.13
+Fri Apr 29 14:54:49 2022: [15794] challenge resp: id 235 for child 25662 from 10.70.201.90:53391
+Fri Apr 29 14:54:49 2022: [25662] passed author : id 235, schaafn in unive, univeras (ace: UN_schaafn)
+Fri Apr 29 14:54:49 2022: [25662] passed authen : id 235, schaafn in unive, univeras (otp)
+Fri Apr 29 14:54:49 2022: [25662] sending accept: id 235, schaafn (unive) to 10.70.201.90
+Fri Apr 29 14:54:49 2022: [25767] failed author : id 96, healthcheck_netscaler_zmc from 10.216.48.203 not found in zmc, zmcras
+Fri Apr 29 14:54:49 2022: [25767] sending reject: id 96, healthcheck_netscaler_zmc (zmc) to 10.216.48.203
+Fri Apr 29 14:54:53 2022: [25772] passed author : id 144, aaa749854 in ah, ahras (ace: AH_aaa749854)
+Fri Apr 29 14:54:54 2022: [25772] failed authen : id 144, aaa749854 in ah, ahras (securid)
+Fri Apr 29 14:54:54 2022: [25772] sending reject: id 144, aaa749854 (ah) to 10.195.140.13
+Fri Apr 29 14:55:02 2022: [25879] passed author : id 87, acetest in monitor, monitor (ace: MO_acetest)
+Fri Apr 29 14:55:02 2022: [25879] passed authen : id 87, acetest in monitor, monitor (securid)
+Fri Apr 29 14:55:02 2022: [25879] sending accept: id 87, acetest (monitor) to 161.89.53.149
+Fri Apr 29 14:55:06 2022: [25984] failed author : id 26, mon_vpx_vgz from 10.217.14.119 not found in vgz, vgzras
+Fri Apr 29 14:55:06 2022: [25984] sending reject: id 26, mon_vpx_vgz (vgz) to 10.217.14.119
+Fri Apr 29 14:55:11 2022: [26055] passed author : id 13, lauren.mcgreal in beh, behras (ace: BE_lauren.mcgreal)
+Fri Apr 29 14:55:11 2022: [26055] passed authen : id 13, lauren.mcgreal in beh, behras (securid)
+Fri Apr 29 14:55:11 2022: [26055] sending accept: id 13, lauren.mcgreal (beh) to 10.195.93.243
+Fri Apr 29 14:55:11 2022: [26066] passed author : id 145, aaa749854 in ah, ahras (ace: AH_aaa749854)
+Fri Apr 29 14:55:11 2022: [26066] passed authen : id 145, aaa749854 in ah, ahras (securid)
+Fri Apr 29 14:55:11 2022: [26066] sending accept: id 145, aaa749854 (ah) to 10.195.140.13
+Fri Apr 29 14:55:21 2022: [15796] accounting    : id 62, aaa749854(AEGON_USER)[AEGON_USER_DC] received from 10.195.140.13
+Fri Apr 29 14:55:21 2022: [15796] accounting    : id 63, aaa749854(AEGON_USER)[AEGON_USER_DC] received from 10.195.140.13
+Fri Apr 29 14:55:38 2022: [15796] accounting    : id 64, xsrzcg@aegon-service.co.uk(PROTECTION-USER)[AEGON_PROTECTION_USER_DC] received from 10.195.140.13
+Fri Apr 29 14:55:38 2022: [15796] accounting    : id 65, xsrzcg@aegon-service.co.uk(PROTECTION-USER)[AEGON_PROTECTION_USER_DC] received from 10.195.140.13
+Fri Apr 29 14:55:42 2022: [15796] accounting    : id 66, aaa769352(AEGON_USER)[AEGON_USER_DC] received from 10.195.140.13
+Fri Apr 29 14:55:44 2022: [15796] accounting    : id 51, aaa749302(AEGON_USER)[AEGON_USER_DC] received from 10.195.141.13
+Fri Apr 29 14:55:44 2022: [15796] accounting    : id 52, aaa749302(AEGON_USER)[AEGON_USER_DC] received from 10.195.141.13
+Fri Apr 29 14:55:49 2022: [26487] failed author : id 97, healthcheck_netscaler_zmc from 10.216.48.203 not found in zmc, zmcras
+Fri Apr 29 14:55:49 2022: [26487] sending reject: id 97, healthcheck_netscaler_zmc (zmc) to 10.216.48.203
+Fri Apr 29 14:56:00 2022: [26831] passed author : id 130, a828099 in tokenadmin, tokenadminas (ace: TA_a828099)
+Fri Apr 29 14:56:01 2022: [26831] passed authen : id 130, a828099 in tokenadmin, tokenadminas (securid)
+Fri Apr 29 14:56:01 2022: [26831] sending accept: id 130, a828099 (tokenadmin) to 161.89.53.149
+Fri Apr 29 14:56:06 2022: [26955] failed author : id 27, mon_vpx_vgz from 10.217.14.119 not found in vgz, vgzras
+Fri Apr 29 14:56:06 2022: [26955] sending reject: id 27, mon_vpx_vgz (vgz) to 10.217.14.119
+Fri Apr 29 14:56:10 2022: [15796] accounting    : id 53, aaa780838(AEGON_USER)[AEGON_USER_DC] received from 10.195.141.13
+Fri Apr 29 14:56:49 2022: [27363] failed author : id 98, healthcheck_netscaler_zmc from 10.216.48.203 not found in zmc, zmcras
+Fri Apr 29 14:56:49 2022: [27363] sending reject: id 98, healthcheck_netscaler_zmc (zmc) to 10.216.48.203
+Fri Apr 29 14:56:51 2022: [15796] accounting    : id 67, aaa749285(AEGON_USER)[AEGON_USER_DC] received from 10.195.140.13
+Fri Apr 29 14:57:02 2022: [15796] accounting    : id 54, aaa749527(AEGON_USER)[AEGON_USER_DC] received from 10.195.141.13
+Fri Apr 29 14:57:06 2022: [27831] failed author : id 28, mon_vpx_vgz from 10.217.14.119 not found in vgz, vgzras
+Fri Apr 29 14:57:06 2022: [27831] sending reject: id 28, mon_vpx_vgz (vgz) to 10.217.14.119
